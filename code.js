@@ -5,21 +5,21 @@ let school = {
       LastName: "jalali",
       Phone: "09364149023",
       Address: "Shiraz",
-      Grade: "18.83",
+      Grade: 18.83,
     },
     Student2ClassA: {
       FirstName: "Amirali",
       LastName: "Chahbejari",
       Phone: "09172386646",
       Address: "Bushehr",
-      Grade: "17.33",
+      Grade: 17.33,
     },
     Student3ClassA: {
       FirstName: "MohammadReza",
       LastName: "IDK",
       Phone: "IDK",
       Address: "Bushehr",
-      Grade: "19.33",
+      Grade: 19.33,
     },
   },
   ClassB: {
@@ -29,7 +29,7 @@ let school = {
         LastName: "Mohammadi",
         Phone: "09173822134",
         Address: "Tehran",
-        Grade: "19.93"
+        Grade: 19.93
 
     },
     Student2ClassB: {
@@ -38,7 +38,7 @@ let school = {
         LastName: "Rajabi",
         Phone: "09173237910",
         Address: "Ilam",
-        Grade: "17.93"
+        Grade: 17.93
 
     },
     Student3ClassB: {
@@ -47,7 +47,7 @@ let school = {
         LastName: "Parvini",
         Phone: "09182379102",
         Address: "Gilan",
-        Grade: "16.93"
+        Grade: 16.93
 
     },
   }
